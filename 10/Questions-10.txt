@@ -1,0 +1,23 @@
+CS 21 Lab 10
+
+Name: Andrew Henin
+
+
+Approximately how many hours did you take to complete this lab?
+Provide your answer as a single integer (or float) on the "hours:"
+line below.
+
+hours: 7
+
+
+How difficult did you find this lab?
+(1-5, with 5 being very difficult and 1 being very easy)
+
+difficulty: 3
+
+
+Describe the biggest challenge you faced on this lab:
+There was no major challenges. The sort code was taught in class, and there is
+a lot of online resources on the internet to help write it. Also, something
+that took some time from me is figuring out the different choices the user can
+make and how this affects my list of records. 
